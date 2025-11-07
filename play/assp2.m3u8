@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://smt.858.qzz.io/Smart.php?id=go_assp2
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXT-X-KEY:METHOD=AES-128,URI="https://top2.newsko.ru/wmsxx.php?test=true|name=premium304|number=1",IV=0x30303030303030303030303068418fc2,KEYFORMAT="identity"
+https://nfsnew.newkso.ru/nfs/premium304/mono.m3u8
