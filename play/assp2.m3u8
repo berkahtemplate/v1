@@ -1,14 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:11
-#EXT-X-MEDIA-SEQUENCE:1762464591
-#EXTINF:10.400000,
-https://smt.858.qzz.io/Smart.php?id=go_assp2&ts=200738_1762464591.ts
-#EXTINF:10.960000,
-https://smt.858.qzz.io/Smart.php?id=go_assp2&ts=200748_1762464592.ts
-#EXTINF:10.000000,
-https://smt.858.qzz.io/Smart.php?id=go_assp2&ts=200759_1762464593.ts
-#EXTINF:9.808333,
-https://smt.858.qzz.io/Smart.php?id=go_assp2&ts=200809_1762464594.ts
-#EXTINF:9.440000,
-https://smt.858.qzz.io/Smart.php?id=go_assp2&ts=200819_1762464595.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+https://smt.858.qzz.io/Smart.php?id=go_assp2
