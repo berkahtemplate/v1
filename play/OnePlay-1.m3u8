@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-KEY:METHOD=AES-128,URI="https://ingesttls.cms.nova.cz/api/v1/iwm/key?data=VhMzXCTF8rqxMt5_ytgrcUGrh1d7f79BQTOczBZFOsiHAQOovAR-g4su5i9UdZdWrPwxTN6P8CYdjpxze56HYg"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
 https://op.sajmi.org/play/Oneplay%20Sport%201.m3u8
